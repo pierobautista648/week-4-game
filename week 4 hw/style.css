@@ -1,0 +1,74 @@
+body{
+    background-image: url('http://cdn.shopify.com/s/files/1/0103/0142/products/crystals_embroiderypattern_grande.jpg?v=1477349260')
+    
+}
+div{
+    margin:5px;
+    width:44%;
+    padding: 10px;
+    border: solid 1px yellow;
+    
+}
+   
+h1{
+    font-weight: bold;
+    text-align: center;
+    font-size: 34px;
+    color: cyan;
+}
+
+li {
+    font-size: 16px;
+    font-weight: bold;
+    
+
+}
+ol{
+    background: grey;
+}
+h2 {
+    background: grey;
+}
+.header{
+    background-color: brown;
+  
+    margin:5px;
+    width:50%;
+    padding: 10px;
+    border: solid 4px yellow;
+}
+
+.randomizedNumber {
+    background: lightblue;
+    width: 14%;
+    padding: 10px;
+    height: 77px;
+    float: left;
+    font-size: 30px;
+}
+
+.score {
+    height: 77px;
+    padding: 10px;
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+.gems{
+    float: center;
+}
+.image{
+    height: 60px;
+    margin: 10px;
+}
+
+.userNumber {
+    background: lightblue;
+    width: 14%;
+    padding: 10px;
+    height: 77px;
+    float: left;
+    font-size: 30px;
+}
